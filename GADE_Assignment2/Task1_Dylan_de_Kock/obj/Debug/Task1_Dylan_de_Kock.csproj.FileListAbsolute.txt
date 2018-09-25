@@ -1,0 +1,10 @@
+C:\Users\Dylan De Kock\Desktop\Task1_Dylan_de_Kock\Task1_Dylan_de_Kock\obj\Debug\Task1_Dylan_de_Kock.csprojAssemblyReference.cache
+C:\Users\Dylan De Kock\Desktop\Task1_Dylan_de_Kock\Task1_Dylan_de_Kock\obj\Debug\Task1_Dylan_de_Kock.Form1.resources
+C:\Users\Dylan De Kock\Desktop\Task1_Dylan_de_Kock\Task1_Dylan_de_Kock\obj\Debug\Task1_Dylan_de_Kock.Properties.Resources.resources
+C:\Users\Dylan De Kock\Desktop\Task1_Dylan_de_Kock\Task1_Dylan_de_Kock\obj\Debug\Task1_Dylan_de_Kock.csproj.GenerateResource.cache
+C:\Users\Dylan De Kock\Desktop\Task1_Dylan_de_Kock\Task1_Dylan_de_Kock\obj\Debug\Task1_Dylan_de_Kock.csproj.CoreCompileInputs.cache
+C:\Users\Dylan De Kock\Desktop\Task1_Dylan_de_Kock\Task1_Dylan_de_Kock\bin\Debug\Task1_Dylan_de_Kock.exe.config
+C:\Users\Dylan De Kock\Desktop\Task1_Dylan_de_Kock\Task1_Dylan_de_Kock\bin\Debug\Task1_Dylan_de_Kock.exe
+C:\Users\Dylan De Kock\Desktop\Task1_Dylan_de_Kock\Task1_Dylan_de_Kock\bin\Debug\Task1_Dylan_de_Kock.pdb
+C:\Users\Dylan De Kock\Desktop\Task1_Dylan_de_Kock\Task1_Dylan_de_Kock\obj\Debug\Task1_Dylan_de_Kock.exe
+C:\Users\Dylan De Kock\Desktop\Task1_Dylan_de_Kock\Task1_Dylan_de_Kock\obj\Debug\Task1_Dylan_de_Kock.pdb
